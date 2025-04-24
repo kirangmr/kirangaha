@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: "docs"
+website:
+  title: "Kiran Gaha"
+  navbar:
+    left:
+    - text: "Home"
+      file: index.qmd
+    - text: "Portfolio"
+      file: portfolio.qmd
+    - text: "Resume"
+      file: resume.qmd
+    right:
+      - icon: github
+        href: https://github.com/kirangaha
+      - icon: X
+        href: https://x.com.kirangahamagar
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+
+editor: visual
+

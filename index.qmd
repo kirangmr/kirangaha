@@ -1,0 +1,23 @@
+---
+title: "Kiran Gaha"
+image: Untitled.jpeg
+about:
+  template: jolla
+  links:
+    - icon: X
+      text: X
+      href: https://x.com/kirangahamagar
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/kirangaha/
+    - icon: github
+      text: Github
+      href: https://github.com/kirangmr
+
+---
+
+Kiran Gaha is a dedicated veterinary professional passionate about zoonotic diseases and the One Health approach. He earned his Bachelor of Veterinary Science and Animal Husbandry from Tribhuvan University, Nepal. His academic and professional experiences have equipped him with expertise in veterinary diagnostics, disease surveillance, and epidemiological research.
+
+Kiran has served as a Veterinary Expert Consultant at the Integrated Agriculture and Livestock Development Office in Nepal, where he actively contributed to disease notification, outbreak investigations, and community education on zoonotic diseases. His research interests include zoonoses, vaccine development, and multidisciplinary disease control strategies.
+
+With proven skills in data analysis using tools like R, SPSS, and ArcGIS, Kiran aims to further his career in veterinary sciences, particularly focusing on infectious diseases and public health, to contribute meaningfully to global health initiatives.
