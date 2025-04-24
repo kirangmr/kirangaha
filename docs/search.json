@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Analysis of DHS Data\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nApr 24, 2025\n\n\nKiran Gaha\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 21, 2025\n\n\nKiran Gaha\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kiran Gaha",
+    "section": "",
+    "text": "Kiran Gaha is a dedicated veterinary professional passionate about zoonotic diseases and the One Health approach. He earned his Bachelor of Veterinary Science and Animal Husbandry from Tribhuvan University, Nepal. His academic and professional experiences have equipped him with expertise in veterinary diagnostics, disease surveillance, and epidemiological research.\nKiran has served as a Veterinary Expert Consultant at the Integrated Agriculture and Livestock Development Office in Nepal, where he actively contributed to disease notification, outbreak investigations, and community education on zoonotic diseases. His research interests include zoonoses, vaccine development, and multidisciplinary disease control strategies.\nWith proven skills in data analysis using tools like R, SPSS, and ArcGIS, Kiran aims to further his career in veterinary sciences, particularly focusing on infectious diseases and public health, to contribute meaningfully to global health initiatives."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
