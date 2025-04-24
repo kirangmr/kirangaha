@@ -13,7 +13,7 @@ website:
       file: resume.qmd
     right:
       - icon: github
-        href: https://github.com/kirangaha
+        href: https://github.com/kirangmr
       - icon: X
         href: https://x.com.kirangahamagar
 format:
