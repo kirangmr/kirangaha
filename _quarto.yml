@@ -11,7 +11,6 @@ website:
       file: portfolio.qmd
     - text: "Resume"
       file: resume.qmd
- 
 format:
   html:
     theme: sketchy
